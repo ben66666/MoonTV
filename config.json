@@ -80,6 +80,19 @@
     "ikun": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "name": "茅台资源"
+      },
+    "ikun": {
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "name": "索尼资源_18"
+      },
+    "ikun": {
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "name": "金鹰资源秒播"
+      },
+    "ikun": {
+      "api": "https://taopianapi.com/cjapi/mc10/vod/xml.htmln",
+      "name": "淘片社区"
+      
     }
   }
 }
